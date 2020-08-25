@@ -1,0 +1,10 @@
+2020-08-25 18:36:11.372 [http-nio-8080-exec-1] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} created. select * from goods where goodsId=? 
+2020-08-25 18:36:11.390 [http-nio-8080-exec-1] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} Parameters : [3] 
+2020-08-25 18:36:11.390 [http-nio-8080-exec-1] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} Types : [BIGINT] 
+2020-08-25 18:36:11.471 [http-nio-8080-exec-1] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} executed. 80.970342 millis. select * from goods where goodsId=? 
+2020-08-25 18:36:11.500 [http-nio-8080-exec-1] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} clearParameters.  
+2020-08-25 18:36:13.410 [http-nio-8080-exec-2] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} Parameters : [3] 
+2020-08-25 18:36:13.410 [http-nio-8080-exec-2] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} Types : [BIGINT] 
+2020-08-25 18:36:13.414 [http-nio-8080-exec-2] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} executed. 4.614758 millis. select * from goods where goodsId=? 
+2020-08-25 18:36:13.420 [http-nio-8080-exec-2] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} clearParameters.  
+2020-08-25 18:39:08.596 [SpringContextShutdownHook] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} closed 

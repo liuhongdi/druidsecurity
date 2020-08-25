@@ -1,0 +1,263 @@
+2020-08-25 18:33:32.901 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 10970 (/data/springboot2f/druidsecurity/target/classes started by liuhongdi in /data/springboot2f/druidsecurity) 
+2020-08-25 18:33:32.916 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-25 18:33:34.056 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-25 18:33:34.065 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-25 18:33:34.065 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-25 18:33:34.066 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-25 18:33:34.130 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-25 18:33:34.131 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1136 ms 
+2020-08-25 18:33:34.192 [main] [:] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat] 
+2020-08-25 18:33:34.230 [main] [:] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled. 
+2020-08-25 18:34:13.414 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 11043 (/data/springboot2f/druidsecurity/target/classes started by liuhongdi in /data/springboot2f/druidsecurity) 
+2020-08-25 18:34:13.440 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-25 18:34:14.452 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-25 18:34:14.461 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-25 18:34:14.462 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-25 18:34:14.462 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-25 18:34:14.533 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-25 18:34:14.533 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 994 ms 
+2020-08-25 18:34:14.586 [main] [:] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat] 
+2020-08-25 18:34:14.610 [main] [:] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled. 
+2020-08-25 18:35:09.298 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 11180 (/data/springboot2f/druidsecurity/target/classes started by liuhongdi in /data/springboot2f/druidsecurity) 
+2020-08-25 18:35:09.323 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-25 18:35:10.403 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-25 18:35:10.424 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-25 18:35:10.426 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-25 18:35:10.428 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-25 18:35:10.513 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-25 18:35:10.513 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1068 ms 
+2020-08-25 18:35:10.739 [main] [:] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource 
+2020-08-25 18:35:11.104 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2020-08-25 18:35:11.107 [Druid-ConnectionPool-Create-2096808863] [:] INFO  com.alibaba.druid.pool.DruidAbstractDataSource - {dataSource-1} failContinuous is true 
+2020-08-25 18:35:11.123 [main] [:] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat] 
+2020-08-25 18:35:11.138 [main] [:] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled. 
+2020-08-25 18:35:46.208 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 11757 (/data/springboot2f/druidsecurity/target/classes started by liuhongdi in /data/springboot2f/druidsecurity) 
+2020-08-25 18:35:46.240 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-25 18:35:47.609 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-25 18:35:47.618 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-25 18:35:47.618 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-25 18:35:47.619 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-25 18:35:47.724 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-25 18:35:47.724 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1359 ms 
+2020-08-25 18:35:47.932 [main] [:] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource 
+2020-08-25 18:35:48.841 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2020-08-25 18:35:49.150 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-25 18:35:49.381 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-25 18:35:49.456 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-25 18:35:49.471 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Started DemoApplication in 3.936 seconds (JVM running for 6.631) 
+2020-08-25 18:36:11.008 [http-nio-8080-exec-1] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-25 18:36:11.010 [http-nio-8080-exec-1] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-25 18:36:11.028 [http-nio-8080-exec-1] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 17 ms 
+2020-08-25 18:39:08.573 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-25 18:39:08.577 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ... 
+2020-08-25 18:39:08.603 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed 
+2020-08-25 18:39:15.987 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 12044 (/data/springboot2f/druidsecurity/target/classes started by liuhongdi in /data/springboot2f/druidsecurity) 
+2020-08-25 18:39:16.024 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-25 18:39:18.762 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-25 18:39:18.774 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-25 18:39:18.775 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-25 18:39:18.776 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-25 18:39:18.868 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-25 18:39:18.868 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2553 ms 
+2020-08-25 18:39:19.134 [main] [:] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource 
+2020-08-25 18:39:20.584 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2020-08-25 18:39:21.524 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-25 18:39:21.968 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-25 18:39:21.991 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-25 18:39:22.004 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Started DemoApplication in 7.391 seconds (JVM running for 9.884) 
+2020-08-25 18:39:50.748 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-25 18:39:50.752 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ... 
+2020-08-25 18:39:50.783 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed 
+2020-08-25 18:39:56.361 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 12144 (/data/springboot2f/druidsecurity/target/classes started by liuhongdi in /data/springboot2f/druidsecurity) 
+2020-08-25 18:39:56.380 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-25 18:39:57.648 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-25 18:39:57.657 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-25 18:39:57.658 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-25 18:39:57.658 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-25 18:39:57.721 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-25 18:39:57.722 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1217 ms 
+2020-08-25 18:39:57.921 [main] [:] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource 
+2020-08-25 18:39:58.791 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2020-08-25 18:39:59.055 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-25 18:39:59.289 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-25 18:39:59.323 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-25 18:39:59.337 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Started DemoApplication in 3.577 seconds (JVM running for 5.498) 
+2020-08-25 18:40:03.498 [http-nio-8080-exec-1] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-25 18:40:03.498 [http-nio-8080-exec-1] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-25 18:40:03.515 [http-nio-8080-exec-1] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 17 ms 
+2020-08-25 18:47:34.745 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-25 18:47:34.748 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ... 
+2020-08-25 18:47:34.776 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed 
+2020-08-25 18:47:41.065 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 12664 (/data/springboot2f/druidsecurity/target/classes started by liuhongdi in /data/springboot2f/druidsecurity) 
+2020-08-25 18:47:41.099 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-25 18:47:42.286 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-25 18:47:42.296 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-25 18:47:42.297 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-25 18:47:42.298 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-25 18:47:42.372 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-25 18:47:42.372 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1171 ms 
+2020-08-25 18:47:42.583 [main] [:] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource 
+2020-08-25 18:47:43.452 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2020-08-25 18:47:43.745 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-25 18:47:43.964 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-25 18:47:43.992 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-25 18:47:44.021 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Started DemoApplication in 3.662 seconds (JVM running for 5.559) 
+2020-08-25 18:54:26.223 [http-nio-8080-exec-6] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-25 18:54:26.223 [http-nio-8080-exec-6] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-25 18:54:26.241 [http-nio-8080-exec-6] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 18 ms 
+2020-08-25 18:58:46.937 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-25 18:58:46.938 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ... 
+2020-08-25 18:58:46.958 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed 
+2020-08-25 18:59:04.771 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 13011 (/data/springboot2f/druidsecurity/target/classes started by liuhongdi in /data/springboot2f/druidsecurity) 
+2020-08-25 18:59:04.790 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-25 18:59:06.077 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-25 18:59:06.096 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-25 18:59:06.102 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-25 18:59:06.103 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-25 18:59:06.194 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-25 18:59:06.194 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1349 ms 
+2020-08-25 18:59:06.398 [main] [:] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource 
+2020-08-25 18:59:07.312 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2020-08-25 18:59:07.859 [main] [:] INFO  org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@105db94d, org.springframework.security.web.context.SecurityContextPersistenceFilter@4db0ba1c, org.springframework.security.web.header.HeaderWriterFilter@569348e1, org.springframework.security.web.csrf.CsrfFilter@c97721b, org.springframework.security.web.authentication.logout.LogoutFilter@3e6748ae, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@28f154cc, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@74123110, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@1d99ee1b, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1578fa9, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4ea1aa52, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3915e7c3, org.springframework.security.web.session.SessionManagementFilter@407b8435, org.springframework.security.web.access.ExceptionTranslationFilter@37314843, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@14457a95] 
+2020-08-25 18:59:07.952 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-25 18:59:08.243 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-25 18:59:08.262 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-25 18:59:08.286 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Started DemoApplication in 4.301 seconds (JVM running for 6.907) 
+2020-08-25 18:59:12.707 [http-nio-8080-exec-1] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-25 18:59:12.708 [http-nio-8080-exec-1] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-25 18:59:12.732 [http-nio-8080-exec-1] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 24 ms 
+2020-08-25 19:00:35.524 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-25 19:00:35.525 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ... 
+2020-08-25 19:00:35.546 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed 
+2020-08-25 19:00:43.828 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 13141 (/data/springboot2f/druidsecurity/target/classes started by liuhongdi in /data/springboot2f/druidsecurity) 
+2020-08-25 19:00:43.847 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-25 19:00:45.051 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-25 19:00:45.059 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-25 19:00:45.060 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-25 19:00:45.061 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-25 19:00:45.127 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-25 19:00:45.128 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1228 ms 
+2020-08-25 19:00:45.280 [main] [:] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource 
+2020-08-25 19:00:46.051 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2020-08-25 19:00:46.700 [main] [:] INFO  org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1d99ee1b, org.springframework.security.web.context.SecurityContextPersistenceFilter@1578fa9, org.springframework.security.web.header.HeaderWriterFilter@407b8435, org.springframework.security.web.csrf.CsrfFilter@35fa450f, org.springframework.security.web.authentication.logout.LogoutFilter@3030836d, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@6af78a48, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@79ab97fd, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@3915e7c3, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@9e30f9a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5ed0b4e3, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@167a21b, org.springframework.security.web.session.SessionManagementFilter@4db0ba1c, org.springframework.security.web.access.ExceptionTranslationFilter@569348e1, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@48567727] 
+2020-08-25 19:00:46.799 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-25 19:00:47.032 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-25 19:00:47.059 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-25 19:00:47.100 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Started DemoApplication in 4.056 seconds (JVM running for 6.34) 
+2020-08-25 19:01:37.005 [http-nio-8080-exec-1] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-25 19:01:37.006 [http-nio-8080-exec-1] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-25 19:01:37.019 [http-nio-8080-exec-1] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 13 ms 
+2020-08-25 19:04:37.022 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-25 19:04:37.024 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ... 
+2020-08-25 19:04:37.042 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed 
+2020-08-25 19:04:45.636 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 13362 (/data/springboot2f/druidsecurity/target/classes started by liuhongdi in /data/springboot2f/druidsecurity) 
+2020-08-25 19:04:45.658 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-25 19:04:46.922 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-25 19:04:46.930 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-25 19:04:46.930 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-25 19:04:46.930 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-25 19:04:46.998 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-25 19:04:46.998 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1236 ms 
+2020-08-25 19:04:47.175 [main] [:] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource 
+2020-08-25 19:04:47.822 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2020-08-25 19:04:48.317 [main] [:] INFO  org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@70091872, org.springframework.security.web.context.SecurityContextPersistenceFilter@7db5b890, org.springframework.security.web.header.HeaderWriterFilter@1537c744, org.springframework.security.web.authentication.logout.LogoutFilter@3e6748ae, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@28f154cc, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@2d70f312, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@105db94d, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1282e98, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3111631d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1d99ee1b, org.springframework.security.web.session.SessionManagementFilter@50122012, org.springframework.security.web.access.ExceptionTranslationFilter@45d4421d, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6afbe6a1] 
+2020-08-25 19:04:48.403 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-25 19:04:48.672 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-25 19:04:48.689 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-25 19:04:48.700 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Started DemoApplication in 3.746 seconds (JVM running for 6.167) 
+2020-08-25 19:05:02.219 [http-nio-8080-exec-4] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-25 19:05:02.219 [http-nio-8080-exec-4] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-25 19:05:02.241 [http-nio-8080-exec-4] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 22 ms 
+2020-08-25 19:08:56.164 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-25 19:08:56.167 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ... 
+2020-08-25 19:08:56.192 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed 
+2020-08-25 19:09:08.384 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 13697 (/data/springboot2f/druidsecurity/target/classes started by liuhongdi in /data/springboot2f/druidsecurity) 
+2020-08-25 19:09:08.402 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-25 19:09:09.982 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-25 19:09:09.999 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-25 19:09:10.000 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-25 19:09:10.001 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-25 19:09:10.081 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-25 19:09:10.082 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1542 ms 
+2020-08-25 19:09:10.286 [main] [:] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource 
+2020-08-25 19:09:11.195 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2020-08-25 19:09:11.774 [main] [:] INFO  org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@8f2e3e6, org.springframework.security.web.context.SecurityContextPersistenceFilter@2d70f312, org.springframework.security.web.header.HeaderWriterFilter@26275b46, org.springframework.security.web.csrf.CsrfFilter@69f080ad, org.springframework.security.web.authentication.logout.LogoutFilter@68aec50, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@6aff97d6, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@133aacbe, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@6f315b08, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4ea1aa52, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7c9beb51, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6c8efde4, org.springframework.security.web.session.SessionManagementFilter@2f15a964, org.springframework.security.web.access.ExceptionTranslationFilter@9e30f9a, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@53feeac9] 
+2020-08-25 19:09:11.882 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-25 19:09:12.249 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-25 19:09:12.272 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-25 19:09:12.291 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Started DemoApplication in 4.64 seconds (JVM running for 6.757) 
+2020-08-25 19:09:20.099 [http-nio-8080-exec-1] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-25 19:09:20.101 [http-nio-8080-exec-1] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-25 19:09:20.129 [http-nio-8080-exec-1] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 26 ms 
+2020-08-25 19:09:46.076 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-25 19:09:46.082 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ... 
+2020-08-25 19:09:46.112 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed 
+2020-08-25 19:09:54.098 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 13824 (/data/springboot2f/druidsecurity/target/classes started by liuhongdi in /data/springboot2f/druidsecurity) 
+2020-08-25 19:09:54.122 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-25 19:09:55.535 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-25 19:09:55.543 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-25 19:09:55.544 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-25 19:09:55.544 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-25 19:09:55.605 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-25 19:09:55.606 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1375 ms 
+2020-08-25 19:09:55.780 [main] [:] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource 
+2020-08-25 19:09:56.510 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2020-08-25 19:09:57.028 [main] [:] INFO  org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6f315b08, org.springframework.security.web.context.SecurityContextPersistenceFilter@2d70f312, org.springframework.security.web.header.HeaderWriterFilter@26275b46, org.springframework.security.web.csrf.CsrfFilter@69f080ad, org.springframework.security.web.authentication.logout.LogoutFilter@68aec50, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@6aff97d6, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@133aacbe, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@6c8efde4, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4ea1aa52, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7c9beb51, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@24e5389c, org.springframework.security.web.session.SessionManagementFilter@2f15a964, org.springframework.security.web.access.ExceptionTranslationFilter@9e30f9a, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@70091872] 
+2020-08-25 19:09:57.115 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-25 19:09:57.362 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-25 19:09:57.378 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-25 19:09:57.390 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Started DemoApplication in 3.921 seconds (JVM running for 6.206) 
+2020-08-25 19:10:01.714 [http-nio-8080-exec-1] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-25 19:10:01.714 [http-nio-8080-exec-1] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-25 19:10:01.749 [http-nio-8080-exec-1] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 35 ms 
+2020-08-25 19:14:27.663 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-25 19:14:27.665 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ... 
+2020-08-25 19:14:27.684 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed 
+2020-08-25 19:14:34.751 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 14098 (/data/springboot2f/druidsecurity/target/classes started by liuhongdi in /data/springboot2f/druidsecurity) 
+2020-08-25 19:14:34.768 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-25 19:14:35.999 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-25 19:14:36.010 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-25 19:14:36.011 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-25 19:14:36.012 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-25 19:14:36.086 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-25 19:14:36.086 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1203 ms 
+2020-08-25 19:14:36.264 [main] [:] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource 
+2020-08-25 19:14:37.062 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2020-08-25 19:14:37.662 [main] [:] INFO  org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@259287ac, org.springframework.security.web.context.SecurityContextPersistenceFilter@782fd504, org.springframework.security.web.header.HeaderWriterFilter@718989fa, org.springframework.security.web.csrf.CsrfFilter@66756662, org.springframework.security.web.authentication.logout.LogoutFilter@3dfd7eaa, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@7c9beb51, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@1b30a54e, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@1abcd059, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@37314843, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@9e30f9a, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@61a87366, org.springframework.security.web.session.SessionManagementFilter@6568f998, org.springframework.security.web.access.ExceptionTranslationFilter@35d7386b, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7a358613] 
+2020-08-25 19:14:37.765 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-25 19:14:38.082 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-25 19:14:38.106 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-25 19:14:38.127 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Started DemoApplication in 4.185 seconds (JVM running for 6.641) 
+2020-08-25 19:14:41.940 [http-nio-8080-exec-2] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-25 19:14:41.942 [http-nio-8080-exec-2] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-25 19:14:41.972 [http-nio-8080-exec-2] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 30 ms 
+2020-08-25 19:16:07.992 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-25 19:16:07.994 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ... 
+2020-08-25 19:16:08.023 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed 
+2020-08-25 19:16:15.720 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 14254 (/data/springboot2f/druidsecurity/target/classes started by liuhongdi in /data/springboot2f/druidsecurity) 
+2020-08-25 19:16:15.749 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-25 19:16:17.137 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-25 19:16:17.147 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-25 19:16:17.148 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-25 19:16:17.148 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-25 19:16:17.215 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-25 19:16:17.215 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1294 ms 
+2020-08-25 19:16:17.381 [main] [:] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource 
+2020-08-25 19:16:18.085 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2020-08-25 19:16:18.596 [main] [:] INFO  org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6f315b08, org.springframework.security.web.context.SecurityContextPersistenceFilter@2d70f312, org.springframework.security.web.header.HeaderWriterFilter@26275b46, org.springframework.security.web.csrf.CsrfFilter@69f080ad, org.springframework.security.web.authentication.logout.LogoutFilter@68aec50, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@6aff97d6, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@133aacbe, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@6c8efde4, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4ea1aa52, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7c9beb51, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@24e5389c, org.springframework.security.web.session.SessionManagementFilter@2f15a964, org.springframework.security.web.access.ExceptionTranslationFilter@9e30f9a, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@70091872] 
+2020-08-25 19:16:18.681 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-25 19:16:18.945 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-25 19:16:18.989 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-25 19:16:19.003 [main] [:] INFO  com.druidsecurity.demo.DemoApplication - Started DemoApplication in 4.058 seconds (JVM running for 6.148) 
+2020-08-25 19:18:04.287 [http-nio-8080-exec-1] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-25 19:18:04.291 [http-nio-8080-exec-1] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-25 19:18:04.316 [http-nio-8080-exec-1] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 25 ms 
+2020-08-25 19:20:10.224 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-25 19:20:10.226 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ... 
+2020-08-25 19:20:10.249 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed 
